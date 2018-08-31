@@ -1,0 +1,3 @@
+string='Sindhu played not that bad but still she lost.'
+print (string.replace('not that bad', 'good'))
+Sindhu played good but still she lost.
