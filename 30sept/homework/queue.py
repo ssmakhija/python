@@ -31,7 +31,7 @@ def SimulateQueue():
             Enqueue(L1, data)
         elif choice == 2:
             if not IsEmpty(L1):
-                print("Data is %d"%(Dequeue(L1)))
+                print("Data removed is %d"%(Dequeue(L1)))
             else:
                 print("List is Empty")
         elif choice == 3:
